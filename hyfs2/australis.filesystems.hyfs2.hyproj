@@ -1,0 +1,15 @@
+format = 2
+name = "Australis HyFS2 Drivers"
+version = "0.1.0"
+type = "driver"
+output = "hyfs2.drv"
+sources = [
+	"./program.hy"
+]
+project_references = []
+
+[package]
+id = "Australis.drivers.hyfs2"
+description = ""
+authors = ["Aurora Softwares"]
+license = "MIT"

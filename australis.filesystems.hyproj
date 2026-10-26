@@ -1,0 +1,14 @@
+format = 2
+name = "Australis Filesystems"
+type = "collection"
+sources = []
+project_references = [
+	"hyfs1/australis.filesystems.hyfs1.hyproj",
+	"hyfs2/australis.filesystems.hyfs2.hyproj"
+]
+
+[package]
+id = "Australis.filesystems"
+description = ""
+authors = ["Aurora Softwares"]
+license = "MIT"
