@@ -2,7 +2,7 @@ format = 2
 name = "Australis HyFS1 Drivers"
 version = "0.1.0"
 type = "driver"
-output = "hyfs1.drv"
+output = "hyfs1.driver"
 sources = [
 	"./program.hy"
 ]
