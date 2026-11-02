@@ -8,7 +8,7 @@ project_references = [
 ]
 
 [package]
-id = "Australis.filesystems"
+id = "australis.filesystems"
 description = ""
 authors = ["Aurora Softwares"]
 license = "MIT"

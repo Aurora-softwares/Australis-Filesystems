@@ -9,7 +9,7 @@ sources = [
 project_references = []
 
 [package]
-id = "Australis.drivers.hyfs2"
+id = "australis.drivers.hyfs2"
 description = ""
 authors = ["Aurora Softwares"]
 license = "MIT"
